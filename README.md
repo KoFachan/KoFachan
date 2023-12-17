@@ -1,9 +1,11 @@
 # Hello World!
 
 **This is my first repository!**
+
+
 - 👋 Hi, I’m **@KoFachan**
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science｜Machine learning | Mathematics | Statistics ｜
+- 🌱 I’m currently learning *Data Science｜Machine learning | Mathematics | Statistics ｜*
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kefazhan@gamil.com
 
