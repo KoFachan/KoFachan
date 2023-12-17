@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ***kefazhan@gamil.com***
 
-My favourite website is [***Google***](https://www.google.com)
+My favourite website is [***Google***](https://www.google.com) 😹🉑
 <!---
 KoFachan/KoFachan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
