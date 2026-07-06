@@ -1,0 +1,7 @@
+interface:
+  display_name: "Codex Architecture Governance"
+  short_description: "Route Codex rules, skills, hooks, agents, and plugins."
+  default_prompt: "Use $codex-architecture-governance to audit my Codex setup and decide where this guidance should be stored."
+
+policy:
+  allow_implicit_invocation: true
